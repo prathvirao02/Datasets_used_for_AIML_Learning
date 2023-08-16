@@ -1,3 +1,2 @@
-# YBI Foundation (section 8 not for profit company) 
-## We provide opportunity to Learn, Practice and Upskill in emerging technolgies
-### Visit us www.ybifoundation.org
+#Datasets#
+##These datasets can be to learn concepts of Artificial Intelligence and Machine Learning.##
